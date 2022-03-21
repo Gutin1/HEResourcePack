@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/custom/power_drill"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-135, 90, 0],
+			"translation": [0, 3, 1.75]
+		}
+	}
+}
