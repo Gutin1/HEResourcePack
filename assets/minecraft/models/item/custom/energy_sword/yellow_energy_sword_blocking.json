@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "item/custom/weapon/anvil",
-		"2": "item/custom/weapon/purple_saber",
-		"particle": "item/custom/weapon/purple_saber"
+		"2": "item/custom/weapon/yellow_saber",
+		"particle": "item/custom/weapon/yellow_saber"
 	},
 	"elements": [
 		{
@@ -360,4 +360,4 @@
 			"children": [19, 20]
 		}
 	]
-} 
+}
