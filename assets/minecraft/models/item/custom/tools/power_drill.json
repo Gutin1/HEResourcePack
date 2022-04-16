@@ -123,11 +123,11 @@
 			"translation": [0, -1.5, -3.75]
 		},
 		"firstperson_righthand": {
-			"rotation": [60, -75.0, 100.0],
+			"rotation": [60, -90.0, 120.0],
 			"translation": [2.5, 0, 0.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [60, -75.0, 100.0],
+			"rotation": [60, -90.0, 120.0],
 			"translation": [3, -0.25, 0.75]
 		},
 		"gui": {
